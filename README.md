@@ -9,7 +9,6 @@
 
 
 ![Kayk Darios GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayk-rios&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Tecnologias
